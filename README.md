@@ -2,6 +2,17 @@
 
 [Ayu](https://github.com/ayu-theme/ayu-colors) color themes for [pi](https://github.com/badlogic/pi-mono) — all three variants: **dark**, **mirage**, and **light**.
 
+## Previews
+
+### Dark
+![ayu-dark](previews/ayu-dark-preview.png)
+
+### Mirage
+![ayu-mirage](previews/ayu-mirage-preview.png)
+
+### Light
+![ayu-light](previews/ayu-light-preview.png)
+
 ## Themes
 
 | Theme | Background | Accent | Description |
