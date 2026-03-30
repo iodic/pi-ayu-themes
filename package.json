@@ -1,0 +1,9 @@
+{
+  "name": "pi-ayu-themes",
+  "version": "1.0.0",
+  "description": "Ayu color themes for pi — dark, mirage, and light",
+  "keywords": ["pi-package"],
+  "pi": {
+    "themes": ["themes"]
+  }
+}
